@@ -10,7 +10,6 @@
   <img align="center" alt="Kau-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Kau-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Kau-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Kau-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100402549/156977916-8b72c2f1-eb98-46db-8a15-9a262d5f5646.png?width=676&height=676">
 </div>
   
   ##
