@@ -1,4 +1,4 @@
-## Oiii! Me chamo Kauani, sou estudante super interessada em desenvolvimento front-end!
+## Hello world :)
 <div align="center">
   <a href="https://github.com/kauanidev">
   <img width="40%" height="130em" src="https://github-readme-stats.vercel.app/api?username=kauanidev&show_icons=true&theme=dracula&include_all_commits=true"/>
